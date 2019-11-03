@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChartView">
+        <attr name="before_dot_size" format="dimension"/>
+        <attr name="before_dot_color" format="color"/>
+        <attr name="before_stroke_color" format="color"/>
+        <attr name="before_stroke_size" format="dimension"/>
+
+        <attr name="after_dot_size" format="dimension"/>
+        <attr name="after_dot_color" format="color"/>
+        <attr name="after_stroke_color" format="color"/>
+        <attr name="after_stroke_size" format="dimension"/>
+    </declare-styleable>
+</resources>
