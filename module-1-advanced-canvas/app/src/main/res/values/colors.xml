@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- chart styles -->
+    <color name="gray_border">#D2D2D2</color>
+    <color name="tens_chart_dot_before">#FFBF00</color>
+    <color name="tens_chart_dot_after">#70B700</color>
+    <color name="tens_chart_stroke_before">#FFBF00</color>
+    <color name="tens_chart_stroke_after">#70B700</color>
+    <color name="tens_chart_view_port_background">#FFFFFF</color>
+</resources>
